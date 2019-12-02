@@ -5,4 +5,4 @@
   (import (scheme base)
           (scheme r5rs))
 
-  (include "scheme.scm"))
+  (include "scheme-interpreter.scm"))
